@@ -1,6 +1,5 @@
 ## Hi, There Is HeLong 👋
 
-## About my blog
 [Thank you for visiting my blog anyway.](https://blog.helong.online/)
 
 This blog is established and maintained to record my study and daily life.
