@@ -29,7 +29,3 @@ Follow as you like:
 My Domain:
 - helong.online
 - 040720.xyz
----
-- Docker加速-部署在Oracle服务器的Docker加速镜像
-    域名为：*.040720.xyz
-    ![docker](https://github.com/user-attachments/assets/aa1a31d8-a733-49db-8f84-d3581b740be7)
